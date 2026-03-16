@@ -1,0 +1,5 @@
+{
+  "name": "Timer",
+  "description": "A minimalist timer app with a floating mode that stays visible over other apps using Picture-in-Picture.",
+  "requestFramePermissions": []
+}
